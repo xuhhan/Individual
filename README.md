@@ -1,2 +1,3 @@
 # Individual
-My name is Xuhao Han
+My name is **Xuhao Han**
+*I am an Senior*
